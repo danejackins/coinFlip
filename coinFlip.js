@@ -9,7 +9,7 @@ function coinFlip(result) {
 
   if (randomNumber === 0) {
     $("#coin-image").html(
-      "<img src='http://random-ize.com/coin-flip/us-quater/us-quarter-front.jpg' />"
+      "<img src='http://random-ize.com/coin-flip/us-quarter/us-quarter-front.jpg' />"
     );
   }
 
